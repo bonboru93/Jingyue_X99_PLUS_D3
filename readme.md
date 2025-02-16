@@ -7,6 +7,7 @@
 | HDD      | KIOXIA NVME 256G          |
 | GPU      | Sapphire RX460 2G OC      |
 | Ethernet | RTL8188                   |
+| WiFi     | bcm94360cs2               |
 
 # BIOS settings
 | Item              | Value      |
@@ -18,7 +19,7 @@
 | CSM support       | Disabled   |
 
 # OSX version tested
-10.15.7 Catalina (current EFI)
+12.7.4 Monterey (current EFI)
 
 # Not Working
 
